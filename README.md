@@ -66,22 +66,6 @@ Detect credit card frauds in a dataset where:
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 credit-card-fraud-anomaly-detection
-│
-├── 📜 README.md
-├── 📓 anomaly_detection_notebook.ipynb
-├── 📁 images/
-│   ├── confusion_matrix_validation.png
-│   ├── confusion_matrix_test.png
-│   └── threshold_tuning_plot.png
-└── 📄 creditcard.csv (via Kaggle)
-```
-
----
-
 ## 📚 References
 
 - [Kaggle Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
